@@ -1,0 +1,6 @@
+flask
+requests
+tweepy
+transformers
+torch
+gunicorn
