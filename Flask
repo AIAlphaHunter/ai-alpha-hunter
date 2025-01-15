@@ -1,0 +1,8 @@
+/ai-alpha-hunter
+├── app.py
+├── requirements.txt
+├── Procfile
+├── runtime.txt
+├── config.py  (optional)
+├── templates/ (if needed)
+├── static/ (if needed)
